@@ -1,0 +1,12 @@
+[submodule "external/pugixml"]
+	path = external/pugixml
+	url = https://github.com/zeux/pugixml.git
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "external/ImGui-Addons"]
+	path = external/ImGui-Addons
+	url = https://github.com/gallickgunner/ImGui-Addons.git
+[submodule "external/delfem2"]
+	path = external/delfem2
+	url = https://github.com/nobuyuki83/delfem2.git
